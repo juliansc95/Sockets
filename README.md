@@ -1,3 +1,3 @@
 # Sockets
-Segunda parte taller jugando con Sockects
-palos
+Segunda parte taller jugando con Sockects \n
+
