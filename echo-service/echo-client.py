@@ -58,7 +58,7 @@ def echo_client(port):
 		while amount_received < amount_expected:
 			# Reciba datos, no mas de 16 bytes
 			# tu codigo aqui
-       data = socketClient.recv(port) 
+                        data = socketClient.recv(128) 
 			amount_received += len(data)
 			print "Received: %s"%data
 	except socket.errno, e:
