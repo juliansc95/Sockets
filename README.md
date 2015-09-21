@@ -2,9 +2,9 @@
 Segunda parte taller jugando con Sockects
 
 Integrantes: 
-Julian Andres Silva - 1325577
-Johan Andres Garzon - 1325214
-Johan Andres Benavides -1323294
+Julian Andres Silva - 1325577 <br>
+Johan Andres Garzon - 1325214 <br>
+Johan Andres Benavides -1323294 <br>
 
 Proposito de los programas:
 
